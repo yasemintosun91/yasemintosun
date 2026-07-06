@@ -1,0 +1,40 @@
+title: "Yasemin Tosun"
+tagline: "Political Scientist"
+description: >-
+  Yasemin Tosun is a Postdoctoral Fellow in Political Science at Sabancı University,
+  researching protest behavior, elections, and political polarization.
+url: "https://yasemintosun91.github.io"
+baseurl: "/yasemintosun"
+
+author:
+  name: "Yasemin Tosun"
+  email: "yasemintosun@sabanciuniv.edu"
+
+# Building
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  publications:
+    output: false

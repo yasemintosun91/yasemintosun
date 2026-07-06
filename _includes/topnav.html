@@ -1,0 +1,18 @@
+<header class="topnav">
+  <div class="topnav-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">Yasemin Tosun</a>
+
+    <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-links">Menu</button>
+
+    <nav aria-label="Primary">
+      <ul class="nav-links" id="nav-links">
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a></li>
+        <li><a href="{{ '/publications/' | relative_url }}" {% if page.url contains '/publications' %}class="active"{% endif %}>Publications</a></li>
+        <li><a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research' %}class="active"{% endif %}>Research</a></li>
+        <li><a href="{{ '/teaching/' | relative_url }}" {% if page.url contains '/teaching' %}class="active"{% endif %}>Teaching</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}" {% if page.url == '/blog/' or page.layout == 'post' %}class="active"{% endif %}>News</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

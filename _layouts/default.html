@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include topnav.html %}
+
+  <main class="content">
+    {{ content }}
+    <footer class="site-footer">
+      © {{ site.time | date: '%Y' }} Yasemin Tosun. Built with Jekyll, hosted on GitHub Pages.
+    </footer>
+  </main>
+
+  <script>
+    var toggle = document.getElementById('nav-toggle');
+    var links = document.getElementById('nav-links');
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        var open = links.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open);
+      });
+    }
+  </script>
+</body>
+</html>
