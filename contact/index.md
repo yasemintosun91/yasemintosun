@@ -27,5 +27,4 @@ permalink: /contact/
 </div>
 
 <p style="margin-top:2rem; color:var(--ink-soft); font-size:0.92rem;">
-  A phone number appears on the CV but is left off this public page — add it back in <code>contact/index.md</code> if you'd like it listed.
 </p>
