@@ -19,8 +19,9 @@ permalink: /contact/
   <div class="contact-row">
     <span class="label">Elsewhere</span>
     <span>
-      <!-- Add real links when ready -->
-      Google Scholar · ORCID · LinkedIn
+      <a href="https://scholar.google.com/citations?user=n1uySbQAAAAJ&hl=tr" target="_blank" rel="noopener">Google Scholar</a> ·
+      <a href="https://orcid.org/0000-0002-7601-2134" target="_blank" rel="noopener">ORCID</a> ·
+      <a href="https://www.linkedin.com/in/yasemin-tosun-phd-8291711b9/" target="_blank" rel="noopener">LinkedIn</a>
     </span>
   </div>
 </div>
