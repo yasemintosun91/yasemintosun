@@ -106,7 +106,7 @@ main.content {
 /* hero (home page only) */
 .hero {
   display: grid;
-  grid-template-columns: 132px 1fr;
+  grid-template-columns: 200px 1fr;
   gap: 2rem;
   align-items: start;
   margin-bottom: 2.2rem;
