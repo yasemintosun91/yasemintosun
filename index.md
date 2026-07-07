@@ -6,7 +6,7 @@ permalink: /
 
 <div class="hero">
   <div class="hero-photo">
-    <img src="{{ '/assets/images/yasemin.jpg' | relative_url }}" alt="Yasemin Tosun">
+    <img src="{{ '/assets/images/yasemin.jpeg' | relative_url }}" alt="Yasemin Tosun">
 </div>
   <div>
     <h1 class="page-title">Yasemin Tosun</h1>
