@@ -1,8 +1,4 @@
----
-layout: default
-title: Contact
-permalink: /contact/
---
+
 
 <h1 class="page-title">Contact</h1>
 <p class="subtitle">Get in touch about research, collaboration, or teaching.</p>
