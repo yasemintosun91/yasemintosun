@@ -6,9 +6,8 @@ permalink: /
 
 <div class="hero">
   <div class="hero-photo">
-    <!-- Replace with <img src="{{ '/assets/images/yasemin.jpg' | relative_url }}" alt="Yasemin Tosun"> -->
-    YT
-  </div>
+    <img src="{{ '/assets/images/yasemin.jpg' | relative_url }}" alt="Yasemin Tosun">
+</div>
   <div>
     <h1 class="page-title">Yasemin Tosun</h1>
     <p class="subtitle">Postdoctoral Fellow, Political Science</p>
