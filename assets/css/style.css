@@ -112,8 +112,8 @@ main.content {
   margin-bottom: 2.2rem;
 }
 .hero-photo {
-  width: 132px;
-  height: 132px;
+  width: 200px;
+  height: 200px;
   border-radius: 4px;
   background: #f1f1ee;
   color: var(--ink-soft);
