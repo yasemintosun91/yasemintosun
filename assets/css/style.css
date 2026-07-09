@@ -3,7 +3,7 @@
    content-forward, minimal color, hairline dividers.
    =========================================================== */
 
-:root {
+:root { 
   --paper: #ffffff;
   --ink: #1a1a1a;
   --ink-soft: #5a5a5a;
