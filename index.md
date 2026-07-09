@@ -16,14 +16,14 @@ permalink: /
   </div>
 </div>
 
-I am a Postdoctoral Fellow at the Faculty of Arts and Social Sciences, Sabancı University, where I completed my Ph.D. in Political Science in 2023. My research examines **protest behavior, elections, and political polarization**, with a particular focus on Turkey and comparative party politics. I combine survey research, experimental methods, and computational analysis of social media data to study how citizens choose between voting, protesting, and disengagement.
+I am a Postdoctoral Fellow at the Faculty of Arts and Social Sciences, Sabancı University, where I completed my Ph.D. in Political Science in 2023. My research examines **protest behavior, elections, and political representation**, with a particular focus on Turkey and comparative party politics. I combine survey research, experimental methods, and computational analysis of social media data to study how citizens choose between voting, protesting, and disengagement.
 
 I hold an LL.M. in International Human Rights Law from the University of Exeter and a B.A. in International Relations from Istanbul Bilgi University, and was a Visiting Researcher at the University of Texas at Austin in 2022.
 
 <hr class="rule">
 
 <h2>Research Interests</h2>
-<p>Protest behavior · Electoral politics · Political polarization · Party systems · Computational social science · Social media and political communication</p>
+<p>Protest behavior · Electoral politics · Political representation · Party systems · Computational social science · Social media and political communication</p>
 
 <h2>Current Position</h2>
 <ul class="record-list">
