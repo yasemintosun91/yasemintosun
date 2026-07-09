@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-permalink: /publications/
+permalink: /publications/ 
 ---
 
 <h1 class="page-title">Publications</h1>
