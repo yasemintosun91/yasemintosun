@@ -19,7 +19,7 @@ permalink: /publications/
     <span class="rec-year">2025</span>
     <span class="rec-body">
       Tosun, Yasemin. <strong>“When Voting is not Enough: The Relationship Between Ideological Incongruence, Party Attachment, and Protest Behavior.”</strong>
-      <span class="venue">Journal of Elections, Public Opinion and Parties</span>. 36(2):409-429.
+      <span class="venue">Journal of Elections, Public Opinion and Parties</span> 36(2):409-429.
     </span>
   </li>
   <li>
